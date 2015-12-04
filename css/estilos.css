@@ -6,9 +6,16 @@ body{
 
 header ul li{
 	display: inline-block;
-	width: 	
+	
 }
 
 header ul li button{
 	width: 89px;
 }
+
+#secAltaAlumno{
+	display: none; /* Ocultar formulario*/
+	margin: 0 auto;
+	width: 350px;
+}
+
